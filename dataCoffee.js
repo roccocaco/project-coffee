@@ -1,41 +1,41 @@
 export const data = [
     {
         id: "01",
-        nome: "melita",
+        nome: "Baggio",
         preco: "4,99",
-        tipo: "latte",
+        tipo: "ESPRESSO",
         img: "",
     },
 
     {
         id: "02",
-        nome: "brasileiro",
+        nome: "Gesha",
         preco: "7,99",
-        tipo: "dalgona",
+        tipo: "DECAFFEINATO",
         img: "",
     },
 
     {
         id: "03",
-        nome: "pilão",
+        nome: "Baronesa ",
         preco: "9,99",
-        tipo: "mocha",
+        tipo: "RISTRETTO",
         img: "",
     },
 
     {
         id: "04",
-        nome: "3 coracões",
+        nome: "Santa Rita",
         preco: "12,99",
-        tipo: "macchiato",
+        tipo: "CAPPUCCINO",
         img: "",
     },
 
     {
         id: "05",
-        nome: "marata",
+        nome: "Santa Mônica",
         preco: "14,99",
-        tipo: "frappe",
+        tipo: "CAFFELLATTE",
         img: "",
     },
 ]
